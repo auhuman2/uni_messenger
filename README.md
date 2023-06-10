@@ -19,3 +19,4 @@
 * git pull 방법
 1. 변경 사항 받기 
 > git pull origin main
+> 수수수수정
